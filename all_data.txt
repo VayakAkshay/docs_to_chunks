@@ -1,0 +1,43 @@
+Python Programming
+
+Python can be used on a server to create web applications.
+Python can be used alongside software to create workflows.
+Python can connect to database systems. It can also read and modify files.
+
+The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
+In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.
+
+Blockchain
+
+Blockchain serves as an immutable ledger which allows transactions take place in a decentralized manner.
+Blockchain-based applications are springing up, cov-ering numerous ﬁelds including ﬁnancial services, reputation system and Internet of Things (IoT), and so on.
+However,there are still many challenges of blockchain technology such as scalability and security problems waiting to be overcome.
+This paper presents a comprehensive overview on blockchain technology.
+We provide an overview of blockchain architechture ﬁrstly and compare some typical consensus algorithms used in different blockchains.
+Furthermore, technical challenges and recent advances are brieﬂy listed.
+We also lay out possible future trends for blockchain.
+
+SaaS product
+
+What does a successful SaaS product launch look like? What are the pre-launch and post-launch steps (hint: user onboarding is a part of this)?
+You’re in the right place if you’re looking for answers to the above questions.
+Whether you have a brand new product launch in the pipeline or planning to release a new version or feature, our article will guide you through the process step by step and help you develop an effective launch plan.
+Python can be used to handle big data and perform complex mathematics.
+Python can be used for rapid prototyping, or for production-ready software development.
+
+Marketing
+
+Content marketing is a marketing strategy used to attract, engage, and retain an audience by creating and sharing relevant articles, videos, podcasts, and other media. This approach establishes expertise, promotes brand awareness, and keeps your business top of mind when it’s time to buy what you sell.
+
+Artificial Intelligent
+
+Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.
+As the hype around AI has accelerated, vendors have been scrambling to promote how their products and services use it. Often, what they refer to as AI is simply a component of the technology, such as machine learning. AI requires a foundation of specialized hardware and software for writing and training machine learning algorithms. No single programming language is synonymous with AI, but Python, R, Java, C++ and Julia have features popular with AI developers.
+
+SEO 
+
+When you built your website, you likely created it with your users in mind, trying to make it easy for them to find and explore your content. One of those users is a search engine, which helps people discover your content. SEO—short for search engine optimization—is about helping search engines understand your content, and helping users find your site and make a decision about whether they should visit your site through a search engine.
+
+Flutter
+
+We asked the Flutter and Global Citizen communities to come together to build epic Flutter games that focused on helping the planet. Hundreds of innovative game projects were submitted by thousands of passionate developers spanning over 50 countries.
